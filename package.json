@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A modern and fully responsive portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "parcel": "^2.8.3"
+  }
+}
